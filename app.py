@@ -1,3 +1,6 @@
+# https://github.com/jeeva4576/Marketing_Campaign_Performance_Prediction.git
+# streamlit run app.py
+
 # %%
 import pickle
 import os
